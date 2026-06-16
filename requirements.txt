@@ -3,7 +3,7 @@ uvicorn[standard]
 python-multipart
 faster-whisper
 transformers
-TTS
+TTS==0.22.0
 pydub
 redis
 rq
